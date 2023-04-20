@@ -1,0 +1,6 @@
+*
+!.gitignore
+!currency.xml
+!lang.xml
+!add
+!add/*

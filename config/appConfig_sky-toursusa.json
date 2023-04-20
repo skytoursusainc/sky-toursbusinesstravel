@@ -1,0 +1,29 @@
+{
+  "prod": {
+    "cabinClass"      : true,
+    "showCars"        : false,
+    "tagManager"      : true,
+    "regula"          : true,
+    "upa"             : true,
+    "baggage"         : false,
+    "hotelsFS"        : "none"
+  },
+  "devel": {
+    "cabinClass"      : true,
+    "showCars"        : true,
+    "tagManager"      : true,
+    "regula"          : true,
+    "upa"             : false,
+    "baggage"         : false,
+    "hotelsFS"        : "none"
+  },
+  "local": {
+    "cabinClass"      : true,
+    "showCars"        : true,
+    "tagManager"      : true,
+    "regula"          : true,
+    "upa"             : false,
+    "baggage"         : false,
+    "hotelsFS"        : "none"
+  }
+}
